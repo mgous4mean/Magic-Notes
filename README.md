@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Example screenshot](img/Magic notes.png)<br>
+![Example screenshot](Magic notes.png)<br>
 
 ## Technologies
 * HTML5
